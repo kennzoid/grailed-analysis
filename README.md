@@ -20,7 +20,7 @@ Grailed is a (now) popular online marketplace for primarily designer menswear. B
 ## Notebooks
 This is the most important part of the repo, check these out! We found the Github notebook viewer to be unsatisfactory, so we encourage viewers to use jupyter's nbviewer web app to view them instead (links below).
 
-### Site Analysis
+#### Site Analysis
 [Notebook](http://nbviewer.jupyter.org/github/kennzoid/grailed-analysis/blob/master/notebooks/site_analysis.ipynb)
 
 * Dataset Info
@@ -30,7 +30,7 @@ This is the most important part of the repo, check these out! We found the Githu
 * Pricing Statistics (lowballing and retail)
 * Miscellaneous Distributions
 
-### Collaborative Filtering
+#### Collaborative Filtering
 [Notebook](http://nbviewer.jupyter.org/github/kennzoid/grailed-analysis/blob/master/notebooks/collaborative_filtering.ipynb)
 
 * Item recommendations using item-item collaborative filtering
@@ -38,7 +38,7 @@ This is the most important part of the repo, check these out! We found the Githu
 * Designer clustering using agglomerative clustering (Pearson Correlation as distance)
 
 
-### Description Analysis (currently WIP)
+#### Description Analysis (currently WIP)
 [Notebook](https://github.com/kennzoid/grailed-analysis/blob/master/notebooks/description_analysis.ipynb)
 
 * Predicting rate of sale using description features
