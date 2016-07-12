@@ -15,7 +15,7 @@ sprinkled in there.
 
 #### Authors
 * Kenneth Vuong - [kennzoid@gmail.com](mailto:kennzoid@gmail.com)
-* Vyom Shah - [admin@uniqlo.com](admin@uniqlo.com)
+* Vyom Shah - [vyom.pablo@gmail.com](vyom.pablo@gmail.com)
 
 ## Notebooks
 This is the most important part of the repo, check these out! We found the Github notebook viewer to be unsatisfactory, so we encourage viewers to use jupyter's nbviewer web app to view them instead (links below).
