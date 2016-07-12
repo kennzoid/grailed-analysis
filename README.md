@@ -13,13 +13,9 @@ working on analyzing description text.
 * Kenneth Vuong - [kennzoid@gmail.com](mailto:kennzoid@gmail.com)
 * Vyom Shah - [admin@uniqlo.com](admin@uniqlo.com)
 
-***
-
 ## What is Grailed?
 
 Grailed is a (now) popular online marketplace for primarily designer menswear. Because of its niche community, the content was ideal for performing a fashion-centric data mining project (as opposed to something like eBay). The admins were also very supportive and allowed us to scrape their site at a reasonable pace. Both of us are also frequent users of the site and very familiar with its quirks.
-
-***
 
 ## Notebooks
 This is the most important part of the repo, check these out! We found the Github notebook viewer to be unsatisfactory, so we encourage viewers to use jupyter's nbviewer web app to view them instead (links below).
@@ -48,12 +44,8 @@ This is the most important part of the repo, check these out! We found the Githu
 * Predicting rate of sale using description features
 * Identifying designer-specific language/terminology
 
-***
-
 ## Scraper Code
 A collection of small scripts we used to scrape the site. This includes the script for downloading JSON as well as the code we used to clean the data and create an SQLite database. We used SQLite to create the CSV files afterwards (those are used in the notebooks).
-
-***
 
 ## Can I have the data?
 Unfortunately we can't release the data we scraped.
