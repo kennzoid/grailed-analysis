@@ -1,21 +1,21 @@
 # Grailed.com Analysis
-This is repository contains code related to the statistical and predictive
-analysis we performed on Grailed.com. We hope you find some of these insightful, a lot of these
-validate trends that are obvious to fashion/grailed hobbyists but there are some surprises
-sprinkled in there.
+Grailed is a (now) popular online marketplace for primarily designer menswear. Because of its niche community, the content was ideal for performing a fashion-centric data mining project (as opposed to something like eBay). The admins were also very supportive and allowed us to scrape their site at a reasonable pace. Both of us are also frequent users of the site and very familiar with its quirks.
 
 
 We looked at various user, designer, and overall site statistics. We also built a simple 
 item/designer recommender and clustered designers using collaborative filtering. We're currently
 working on analyzing description text.
 
+
+This is repository contains code related to the statistical and predictive
+analysis we performed. We hope you find some of these insightful, a lot of these
+validate trends that are obvious to fashion/grailed hobbyists but there are some surprises
+sprinkled in there.
+
+
 #### Authors
 * Kenneth Vuong - [kennzoid@gmail.com](mailto:kennzoid@gmail.com)
 * Vyom Shah - [admin@uniqlo.com](admin@uniqlo.com)
-
-## What is Grailed?
-
-Grailed is a (now) popular online marketplace for primarily designer menswear. Because of its niche community, the content was ideal for performing a fashion-centric data mining project (as opposed to something like eBay). The admins were also very supportive and allowed us to scrape their site at a reasonable pace. Both of us are also frequent users of the site and very familiar with its quirks.
 
 ## Notebooks
 This is the most important part of the repo, check these out! We found the Github notebook viewer to be unsatisfactory, so we encourage viewers to use jupyter's nbviewer web app to view them instead (links below).
